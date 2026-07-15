@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-4yxe3z.newsyourday.com/sitemap.xml
